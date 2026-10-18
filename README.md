@@ -1,1 +1,2 @@
+type score = 5;
 
